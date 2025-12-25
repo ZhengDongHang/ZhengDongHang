@@ -26,9 +26,9 @@ across financial and textual data.
 ### 🏆 Selected Achievements
 
 - 📝 *HarmoniBERT: A Cross-Cultural Ensemble Learning Framework for ESG Text Analytics* ([paper](./material/paper/Bridging_ESG_Text_Analysis_and_Global_Value_Chain_Resilience_Through_AI-Driven_Innovation.pdf))  
-- 🥇 **National First Prize**, Data Intelligence Competition ([certificate](./Kaggle_Bronze_Certificate.pdf))  
-- 🥈 **Citi Cup (China Region)** — Third Prize ([certificate](./Kaggle_Bronze_Certificate.pdf))  
-- 🥉 **Kaggle Bronze Medal** ([certificate](./Kaggle_Bronze_Certificate.pdf))  
+- 🥇 **National First Prize**, Data Intelligence Competition ([certificate](./material/certificate/25-数据素质大赛-国一等奖.pdf))  
+- 🥈 **Citi Cup (China Region)** — Third Prize ([certificate](./material/certificate/25-花旗杯-国三等奖.pdf))  
+- 🥉 **Kaggle Bronze Medal** ([certificate](./material/certificate/25-Kaggle(JaneStreet)-铜牌.pdf))  
 
 ---
 
@@ -58,8 +58,8 @@ across financial and textual data.
 
 ### 🏆 代表性成果
 
-- 📝 论文：*HarmoniBERT：跨文化 ESG 文本分析的集成学习框架*  
-- 🥇 数据素质大赛 **国家一等奖**  
-- 🥈 花旗杯中国赛区 **三等奖**  
-- 🥉 **Kaggle 铜牌**
+- 📝 论文：*HarmoniBERT：跨文化 ESG 文本分析的集成学习框架*  ([论文lun'wlunlul(./material/paper/Bridging_ESG_Text_Analysis_and_Global_Value_Chain_Resilience_Through_AI-Driven_Innov)  
+- 🥇 数据素质大赛 **国家一等奖**  ([证书](./material/certificate/25-数据素质大赛-国一等奖.pdf))  
+- 🥈 花旗杯中国赛区 **三等奖**  ([证书](./material/certificate/25-花旗杯-国三等奖.pdf))  
+- 🥉 **Kaggle 铜牌**([证书](./material/certificate/25-Kaggle(JaneStreet)-铜牌.pdf))  
 </details>
