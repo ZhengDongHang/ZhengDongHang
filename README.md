@@ -57,6 +57,21 @@ Currently serving as **Team Lead of the Algorithm Group at the FinTech Lab, Dong
 
 <br><br>
 
+---
+
+### 🚧 Ongoing Research
+
+Below are my main ongoing research projects (some are unpublished). For safety, descriptions are abstracted to methods and research directions, without revealing data or results:
+
+- 📄 **FinGLUE** — Benchmark & open dataset for multi-task evaluation of financial LLMs  
+- 📊 **Heterogeneous Financial Text Sentiment Modeling** — Multi-task learning for sentiment measurement and market dynamics prediction  
+- ⚙️ **Industrial Fault Diagnosis** — Bayesian transfer learning on industrial fault datasets  
+- 🤖 **Sentiment-Driven Stock Return Prediction** — Using pre-trained language models and time series clustering  
+
+> 💡 Note: Descriptions focus on research directions and methods only. No sensitive data, model parameters, or results are included.
+
+---
+
 <details>
 <summary><strong>🎖️ Other Awards / 其他奖项 (click to expand)</strong></summary>
 
@@ -80,16 +95,6 @@ Currently serving as **Team Lead of the Algorithm Group at the FinTech Lab, Dong
 
 </details>
 
-### 🚧 Ongoing Research
-
-Below are my main ongoing research projects (some are unpublished). For safety, descriptions are abstracted to methods and research directions, without revealing data or results:
-
-- 📄 **FinGLUE** — Benchmark & open dataset for multi-task evaluation of financial LLMs  
-- 📊 **Heterogeneous Financial Text Sentiment Modeling** — Multi-task learning for sentiment measurement and market dynamics prediction  
-- ⚙️ **Industrial Fault Diagnosis** — Bayesian transfer learning on industrial fault datasets  
-- 🤖 **Sentiment-Driven Stock Return Prediction** — Using pre-trained language models and time series clustering  
-
-> 💡 Note: Descriptions focus on research directions and methods only. No sensitive data, model parameters, or results are included.
 
 
 
