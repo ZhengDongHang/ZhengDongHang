@@ -21,6 +21,8 @@
 My work emphasizes **data pipelines, modeling robustness, and empirical analysis**  
 across financial and textual data.
 
+Currently serving as **Team Lead of the Algorithm Group at the FinTech Lab, Dongbei University of Finance & Economics**.
+
 ---
 
 ### 🏆 Selected Achievements
